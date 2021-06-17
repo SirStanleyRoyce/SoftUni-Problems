@@ -1,0 +1,20 @@
+{
+  "nm7k3wk6s8d6ad": {
+    "name": "Rubik's Cube",
+    "description": "Rubik's cube is cool",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rubiks_cube_solved.jpg/220px-Rubiks_cube_solved.jpg",
+    "difficulty": "3"
+  },
+  "nm7k2w8kpl87t9p": {
+    "name": "Ghost Cube",
+    "description": "Another interesting take on the Rubik's cube is the so-called Ghost Cube. A shape-shifting cube, this variant of the classic Rubik's cube will drive you crazy.\r\n\r\nIt was invented in 2008 by Adam G. Cowan and is widely considered to be one of the hardest 3 by 3 by 3 family of Rubik's cubes. If you fancy a real challenge, this one might be the perfect choice for you!",
+    "imageURL": "https://inteng-storage.s3.amazonaws.com/img/iea/yrwQAqvQwN/sizes/interesting-rubiks-cube-ghost-cube_resize_md.jpg",
+    "difficulty": "6"
+  },
+  "nm7k6lwkpl8d3rp": {
+    "name": "Mega Sudoku-Rubik's Cube",
+    "description": "This somewhat obvious upgrade to Ernő Rubik's classic mixes the Cube with another challenging cube-shaped puzzle — Sudoku. This is where this ingenious amalgamation of Sudoku and the Rubik's Cube comes in.\r\n\r\nThe V-Cube, Sudoku themed 3 by 3 by 3 Rotational Speed Cube is the perfect blend of these two well-loved puzzles. It will test you on many levels and is certain to be a worthy challenge for any Sudoku and Rubik's cube enthusiast.",
+    "imageURL": "https://inteng-storage.s3.amazonaws.com/images/JULY/sizes/Erno_Rubik_Sudoku_Cube_resize_md.jpg",
+    "difficulty": "6"
+  }
+}
