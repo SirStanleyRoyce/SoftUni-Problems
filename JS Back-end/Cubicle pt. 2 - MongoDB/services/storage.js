@@ -36,7 +36,7 @@ async function postCube(body) {
 //get attached accessories
 async function getAccessories(cubeId){
     const accIds = (await Cube.findById(cubeId)).accessories || [];
-    return Accessory.find({_id:{$in:accIds}})
+    return Accessory.find({_id:{$in:accIds}}).lean();
 }
 
 //get available accessories

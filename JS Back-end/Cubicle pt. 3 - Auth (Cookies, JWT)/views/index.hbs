@@ -1,0 +1,14 @@
+<h1>Browser</h1>
+<form action="/cubes" method="GET">
+    <input type="text" class="search" name="search" placeholder="Search..." value={{name}}>
+    <input type="number" name="from" class="difficulty" placeholder="Difficulty from..." value={{minDiff}}>
+    <span>-</span>
+    <input type="number" name="to" class="difficulty" placeholder="Difficulty to..." value={{maxDiff}}>
+    <input type="submit" value="search">
+</form>
+{{#each cubes}}
+    {{> cube}}
+    {{else}} <p>No cubes in database.</p>
+{{/each}}
+
+
