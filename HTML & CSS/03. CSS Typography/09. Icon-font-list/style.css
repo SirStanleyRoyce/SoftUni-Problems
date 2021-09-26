@@ -1,0 +1,8 @@
+@import url(https://use.fontawesome.com/releases/v5.15.4/css/all.css);
+article{
+    margin-top: 50px;
+    padding-left: 25px;
+}
+.icons{
+    list-style-type: none;
+}

@@ -1,0 +1,28 @@
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+body{
+    margin: 40px;
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    outline: none;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+p {
+    width: 120px;
+    height: 2.5em;
+    line-height: 2.5em;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.click-me {
+    background: green;
+}
+
+.email-me {
+    background: orange;
+}
