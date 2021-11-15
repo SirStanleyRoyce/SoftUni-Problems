@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Using SoftUni's practice server (https://github.com/softuni-practice-server/softuni-practice-server).
 
+## App
+
+Task: to implement previous SoftUni JS Applications exam into ReactJS.
+
 ## Available Scripts
 
 In the project directory, you can run:
