@@ -5,8 +5,8 @@ export default function PetCard({ pet }) {
         <li className="otherPet">
             <h3>Name: {pet.name}</h3>
             <p>Type: {pet.type}</p>
-            <p className="img"><img src={pet.imageUrl} /></p>
-            <Link className="button" to={`/details/${pet._id}`}>Details</Link>
+            <p className="img"><img src={pet.imageUrl} alt="pet img" /></p>
+            <Link className="button" to={`/pet/${pet._id}`}>Details</Link>
         </li>
     )
 }

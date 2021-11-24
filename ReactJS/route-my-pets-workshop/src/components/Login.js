@@ -1,8 +1,8 @@
 import { useNavigate } from "react-router";
 
-import { login } from "../services/auhtService";
+import { login } from "../services/authService";
 
-export default function Login() {
+export default function Login({ onLogin }) {
     const navigate = useNavigate();
 
     const submitHandler = async (e) => {
@@ -13,10 +13,11 @@ export default function Login() {
 
         try {
             await login(email, password);
+            onLogin();
             navigate('/');
         }
-        catch {
-            
+        catch (e) {
+            console.error(e.message);
         }
     }
 

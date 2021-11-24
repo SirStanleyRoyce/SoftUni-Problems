@@ -29,11 +29,18 @@ export const register = async (email, password) => {
 
 
 export const logout = async () => {
-    const res = await api.get(`${AUTH_SERVER_URL}/logout`);
+    const res = await fetch(`${AUTH_SERVER_URL}/logout`);
 
-    sessionStorage.removeItem('authToken', res.accessToken);
-    sessionStorage.removeItem('userId', res._id);
-    sessionStorage.removeItem('email', res.email);
+    sessionStorage.removeItem('authToken');
+    sessionStorage.removeItem('userId');
+    sessionStorage.removeItem('email');
 
     return res;
+}
+
+export const getUserData = () => {
+    return {
+        email: sessionStorage.getItem('email'),
+        userId: sessionStorage.getItem('userId')
+    }
 }
