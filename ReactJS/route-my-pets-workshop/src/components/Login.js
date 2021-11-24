@@ -1,22 +1,44 @@
+import { useNavigate } from "react-router";
+
+import { login } from "../services/auhtService";
+
 export default function Login() {
+    const navigate = useNavigate();
+
+    const submitHandler = async (e) => {
+        e.preventDefault();
+
+        const form = new FormData(e.currentTarget);
+        const { email, password } = Object.fromEntries(form);
+
+        try {
+            await login(email, password);
+            navigate('/');
+        }
+        catch {
+            
+        }
+    }
+
+
     return (
-        <section id="login-page" class="login">
-            <form id="login-form" action="" method="">
+        <section id="login-page" className="login">
+            <form id="login-form" method="POST" onSubmit={submitHandler}>
                 <fieldset>
                     <legend>Login Form</legend>
-                    <p class="field">
+                    <p className="field">
                         <label htmlFor="email">Email</label>
-                        <span class="input">
+                        <span className="input">
                             <input type="text" name="email" id="email" placeholder="Email" />
                         </span>
                     </p>
-                    <p class="field">
+                    <p className="field">
                         <label htmlFor="password">Password</label>
-                        <span class="input">
+                        <span className="input">
                             <input type="password" name="password" id="password" placeholder="Password" />
                         </span>
                     </p>
-                    <input class="button submit" type="submit" value="Login" />
+                    <input className="button submit" type="submit" value="Login" />
                 </fieldset>
             </form>
         </section>

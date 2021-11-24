@@ -17,6 +17,7 @@ function App() {
       <main id="site-content">
         <Routes>
           <Route path="/" element={<Dashboard />} />
+          <Route path="my-pets" element={<MyPets />} />
           <Route path="my-pets/:userId" element={<MyPets />} />
           <Route path="details/:petId" element={<Details />} />
           <Route path="add-pet" element={<AddPet />} />
