@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Routes, Route } from 'react-router';
 
-import { getUserData } from './services/authService';
+import { getUserData, isAuthenticated as isUser } from './services/authService';
 
 import Header from './components/Header';
 import Dashboard from './components/Dashboard';
@@ -20,7 +20,7 @@ function App() {
     const data = getUserData();
 
     setUserData({
-      isAuthenticated: Boolean(data),
+      isAuthenticated: isUser(),
       user: data,
     })
 
@@ -48,10 +48,10 @@ function App() {
           <Route path="/" element={<Dashboard />} />
           <Route path="my-pets" element={<MyPets />} />
           <Route path="my-pets/:userId" element={<MyPets />} />
-          <Route path="pet/:petId/*" element={<Details />} />
-          <Route path="add-pet" element={<AddPet />} />
+          <Route path="pet/:petId/*" element={<Details userData={userData} />} />
+          <Route path="add-pet" element={<AddPet userData={userData}/>} />
           <Route path="login" element={<Login onLogin={onLogin} />} />
-          <Route path="register" element={<Register />} />
+          <Route path="register" element={<Register onRegister={onLogin} />} />
           <Route path="logout" element={<Logout onLogout={onLogout} />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

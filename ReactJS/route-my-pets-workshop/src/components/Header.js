@@ -16,7 +16,7 @@ export default function Header({ isAuthenticated, user }) {
             <Link className="button" to="/register">Register</Link>
         </div>
     )
-        console.log(isAuthenticated, user);
+
     return (
         <header id="site-header">
             <nav className="navbar">

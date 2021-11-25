@@ -11,7 +11,7 @@ export default function Logout({ onLogout }) {
             onLogout();
         }
         logoutFunc();
-    })
+    }, [])
 
     return <Navigate to="/" replace={true} />
 }

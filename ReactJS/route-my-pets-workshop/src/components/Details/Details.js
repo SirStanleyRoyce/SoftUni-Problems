@@ -2,11 +2,11 @@ import { useState, useEffect } from "react"
 import { useParams, Routes, Route, Navigate, } from "react-router";
 import { Link } from "react-router-dom";
 
-import { getOne } from "../../services/petService";
+import * as petService from "../../services/petService";
 import EditPet from "./EditPet";
 import DeletePet from "./DeletePet";
 
-export default function Details() {
+export default function Details({ userData }) {
     const [petData, setPetData] = useState({});
     const [isValidPet, setIsValidPet] = useState(true);
     const { petId } = useParams();
@@ -14,7 +14,7 @@ export default function Details() {
     useEffect(() => {
         async function fetchData() {
             try {
-                setPetData(await getOne(petId));
+                setPetData(await petService.getOne(petId));
             }
             catch (e) {
                 console.error(e.message);
@@ -22,8 +22,8 @@ export default function Details() {
             }
         }
         fetchData();
-    }, [petId])
 
+    }, [petId])
 
     return (
 
@@ -34,19 +34,17 @@ export default function Details() {
                     <p className="type">Type: {petData.type}</p>
                     <p className="img"><img src={petData.imageUrl} alt="pet img" /></p>
                     <div className="actions">
-
-                        <Link className="button" to="edit">Edit</Link>
-                        <Link className="button" to="delete">Delete</Link>
-
-                        <a className="button" to="javascript:void(0)">Like</a>
-
-                        <div className="likes">
-                            <img className="hearts" src="/images/heart.png" alt="heart" />
-                            <span id="total-likes">Likes: {petData.likes}</span>
-                        </div>
-
+                        {
+                            (userData.isAuthenticated && petService.isOwner(userData.user.userId, petData._ownerId))
+                                ?
+                                <>
+                                    <Link className="button" to="edit">Edit</Link>
+                                    <Link className="button" to="delete">Delete</Link>
+                                </>
+                                : <></>
+                        }
                         <Routes>
-                            <Route path="edit" element={<EditPet petId={petId} petData={petData} />} />
+                            <Route path="edit" element={<EditPet petId={petId} petData={petData} setPetData={setPetData} userId={userData.user.userId} />} />
                             <Route path="delete" element={<DeletePet petId={petId} />} />
                         </Routes>
 

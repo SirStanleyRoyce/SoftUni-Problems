@@ -44,3 +44,7 @@ export const getUserData = () => {
         userId: sessionStorage.getItem('userId')
     }
 }
+
+export const isAuthenticated = () => {
+    return Boolean(sessionStorage.getItem('authToken'));
+}

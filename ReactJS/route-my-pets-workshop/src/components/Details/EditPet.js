@@ -1,9 +1,19 @@
-export default function EditPet({ petId, petData }) {
+import { useNavigate } from "react-router";
+
+import { editPet } from "../../services/petService";
+
+export default function EditPet({ petId, petData, setPetData, userId }) {
+    const navigate = useNavigate();
+
     const editHandler = async (e) => {
         e.preventDefault();
 
         const form = new FormData(e.currentTarget);
-        const {name, description, imageUrl, type} = Object.fromEntries(form);
+        const { name, description, imageUrl, type } = Object.fromEntries(form);
+
+        await editPet(petId, { name, description, imageUrl, type });
+        setPetData({ name, description, imageUrl, type });
+        navigate(`/my-pets/${userId}`);
     }
 
     return (
@@ -21,7 +31,7 @@ export default function EditPet({ petId, petData }) {
                         <label htmlFor="description">Description</label>
                         <span className="input">
                             <textarea name="description"
-                                id="description">{petData.description}</textarea>
+                                id="description" defaultValue={petData.description}></textarea>
                         </span>
                     </p>
                     <p className="field">
@@ -35,7 +45,7 @@ export default function EditPet({ petId, petData }) {
                         <span className="input">
                             <select id="type" name="type" defaultValue={petData.type}>
                                 <option value="cat" >Cat</option>
-                                <option value="dog" selected>Dog</option>
+                                <option value="dog">Dog</option>
                                 <option value="parrot">Parrot</option>
                                 <option value="reptile">Reptile</option>
                                 <option value="other">Other</option>
