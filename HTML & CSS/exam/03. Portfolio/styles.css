@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,500;1,400&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.13.0/css/all.css');
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 90%;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    background: #EFEFEF;
+}
+
+h1, h2, h3, h4, h5, h6, .site-nav-dropdown-menu-text {
+    font-style: normal;
+}
+
+p {
+    font-size: 18px;
+}
+
+header {
+    padding: 40px 120px 40px 150px;
+}
+
+.site-nav {
+    display: flex;
+    justify-content: end;
+}
+
+.site-nav-dropdown-menu-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.site-nav-dropdown-menu-text {
+    margin: 0 7px 0 0;
+}
+
+.fas {
+    font-size: 26px;
+}
+
+.fab {
+    font-size: 50px;
+}
+
+.header-jade {
+    display: flex;
+    margin-bottom: 110px;
+}
+
+.header-jade-content {
+    padding-top: 60px;
+    color: #383838;
+    position: relative;
+    margin-right: 101px;
+}
+
+.header-jade-content-title {
+    margin-left: 0;
+    font-weight: 300;
+    font-size: 46px;
+}
+
+.header-jade-content-text {
+    line-height: 1.7em;
+}
+
+.header-jade-content::after {
+    content: "";
+    height: 90px;
+    width: 1px;
+    background: #111111;
+    position: absolute;
+}
+
+.header-camera {
+    display: flex;
+    margin-bottom: 110px;
+}
+
+.header-camera-content {
+    color: #383838;
+    margin-left: 101px;
+}
+
+.header-camera-content-title {
+    margin-left: 0;
+    padding-left: 105px;
+    font-weight: 300;
+    font-size: 46px;
+    position: relative;
+}
+
+.header-camera-content-title::before {
+    content: "";
+    width: 70px;
+    height: 1px;
+    background: #111111;
+    position: absolute;
+    top: 27px;
+    left: 4px;
+}
+
+.header-camera-content-text {
+    line-height: 1.7em;
+    padding-right: 70px;
+}
+
+.social-media-icons-list {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.social-media-icons-list-item {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.social-media-icon-link {
+    display: inline-block;
+    text-decoration: none;
+    color: #909090;
+}
+
+.thumbnail-1-photographer {
+    max-width: 100%;
+    margin-bottom: 110px;
+}
+
+.thumbnail-1-photographer img {
+    width: 100%;
+}
+
+.featured {
+    display: flex;
+    margin-bottom: 200px;
+    padding: 40px 120px 40px 150px;
+}
+
+.featured-content {
+    padding-top: 60px;
+    color: #383838;
+    position: relative;
+    margin-right: 120px;
+}
+
+.featured-content-title {
+    margin-left: 0;
+    font-weight: 300;
+    font-size: 46px;
+}
+
+.featured-content-text {
+    line-height: 1.7em;
+}
+
+.featured-img {
+    flex-basis: 176%;
+}
+
+.featured-img img {
+    width: 100%;
+}
+
+.featured-content::after {
+    content: "";
+    height: 90px;
+    width: 1px;
+    background: #111111;
+    position: absolute;
+}
+
+.thumbnail-2-gallery {
+    display: flex;
+    align-items: center;
+    max-width: 85%;
+    margin: 0 auto 200px auto;
+}
+
+.thumbnail-2-gallery article {
+    flex-shrink: 2;
+}
+
+.thumbnail-2-gallery article:nth-child(2){
+    flex-shrink: 1;
+}
+
+.thumbnail-2-gallery img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    min-height: 450px;
+
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 300px;
+}
+.footer-content-title{
+    margin-left: 0;
+    margin-bottom: 10px;
+    font-weight: 300;
+    font-size: 46px;
+}
+.footer-content-text{
+    line-height: 1.7em;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.footer-content form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 75%;
+    margin: 0 auto;
+}
+.footer-content form input{
+    margin-bottom: 30px;
+    border: 1px solid black;
+    border-radius: 2px;
+    font-size: 18px;
+
+}
+.footer-content form input:nth-child(1){
+    flex-basis: 48%;
+    height: 50px;
+    padding: 15px;
+}
+.footer-content form input:nth-child(2){
+    flex-basis: 48%;
+    height: 50px;
+    padding: 15px;
+
+}
+.footer-content form input:nth-child(3){
+    flex-basis: 100%;
+    height: 150px;
+    padding: 0 0 100px 15px;
+}
+.footer-content form input:nth-child(4){
+    flex-basis: 100%;
+    color: white;
+    background: #111111;
+    height: 40px;
+}
+.footer-rights{
+    margin-bottom: 15px;
+}
