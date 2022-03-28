@@ -1,0 +1,102 @@
+<form (ngSubmit)="submitHandler()" [formGroup]="form">
+  <fieldset>
+    <h1>Registration Form</h1>
+
+    <p class="field field-icon">
+      <label for="username"><span><i class="fas fa-user"></i></span></label>
+      <input type="text" name="username" id="username" placeholder="Mark Ulrich" formControlName="username">
+    </p>
+
+    <p class="error" *ngIf="form.get('username')!.invalid && form.get('username')!.touched">
+      <ng-container *ngIf="form.get('username')!.errors!['required']">Name is required.</ng-container>
+      <ng-container *ngIf="form.get('username')!.errors!['pattern']">
+        Name must consist of 2 words separated by a space. Both should start with a capital letter.
+      </ng-container>
+    </p>
+
+    <p class="field field-icon">
+      <label for="email"><span><i class="fas fa-envelope"></i></span></label>
+      <input type="text" name="email" id="email" placeholder="marк@gmail.com" formControlName="email">
+    </p>
+    <p class="error" *ngIf="form.get('email')!.invalid && form.get('email')!.touched && form.get('email')!.errors">
+      <ng-container *ngIf="form.get('email')!.errors!['required']">Email is required.</ng-container>
+      <ng-container *ngIf="form.get('email')!.errors!['email']">Email must be valid.</ng-container>
+    </p>
+
+    <p class="field field-icon">
+      <label for="tel"><span><i class="fas fa-phone"></i></span></label>
+      <select name="tel" id="tel" class="tel">
+        <option *ngFor="let tel of tels" (value)="tel.value" [defaultSelected]="tel.default">+{{tel.value}}</option>
+      </select>
+      <input type="text" name="tel" id="tel" placeholder="888 888" formControlName="phoneNumber">
+    </p>
+    <p class="error"
+      *ngIf="form.get('phoneNumber')!.invalid && form.get('phoneNumber')!.touched && form.get('phoneNumber')!.errors">
+      <ng-container *ngIf="form.get('phoneNumber')!.errors!['required']">Phone number is required.</ng-container>
+      <ng-container *ngIf="form.get('phoneNumber')!.errors!['minlength'] || form.get('phoneNumber')!.errors!['maxlength']">Phone number must be 9 digits long.
+      </ng-container>
+      <ng-container *ngIf="form.get('phoneNumber')!.errors!['pattern']">Phone number can only consist of digits.
+      </ng-container>
+    </p>
+
+    <p class="field field-icon">
+      <label for="building"><span><i class="fas fa-building"></i></span></label>
+      <select name="building" id="building" class="building" value="Select occupation" formControlName="occupation">
+        <option *ngFor="let occupation of occupations" (value)="occupation.value"
+          [defaultSelected]="occupation.default">{{occupation.value}}</option>
+      </select>
+    </p>
+
+    <p class="field field-icon">
+      <label for="imageUrl"><span><i class="fa fa-image"></i></span></label>
+      <input type="text" name="imageUrl" id="imageUrl" placeholder="Image link" formControlName="imageUrl">
+    </p>
+    <p class="error"
+      *ngIf="form.get('imageUrl')!.invalid && form.get('imageUrl')!.touched && form.get('imageUrl')!.errors">
+      <ng-container *ngIf="form.get('imageUrl')!.errors!['validateUrl']">
+        {{form.get('imageUrl')!.errors!['validateUrl'].error}}
+      </ng-container>
+    </p>
+
+    <p class="field field-icon">
+      <label for="password"><span><i class="fas fa-lock"></i></span></label>
+      <input type="password" name="password" id="password" placeholder="******" formControlName="password">
+    </p>
+    <p class=" error"
+      *ngIf="form.get('password')!.invalid && form.get('password')!.touched && form.get('password')!.errors">
+      <ng-container *ngIf="form.get('password')!.errors!['required']">
+        Password is required.
+      </ng-container>
+      <ng-container *ngIf="form.get('password')!.errors!['minlength'] || form.get('password')!.errors!['maxlength']">
+        Password must be between 3 and 16 characters long.
+      </ng-container>
+      <ng-container *ngIf="form.get('password')!.errors!['pattern']">
+        Password can only consist of letters and digits.
+      </ng-container>
+    </p>
+
+    <p class="field field-icon">
+      <label for="repassword"><span><i class="fas fa-lock"></i></span></label>
+      <input type="repassword" name="repassword" id="repassword" placeholder="******" formControlName="repassword">
+    </p>
+    <p class=" error"
+      *ngIf="form.get('repassword')!.invalid && form.get('repassword')!.touched && form.get('repassword')!.errors">
+      <ng-container *ngIf="form.get('repassword')!.errors!['required']">
+        Repeat Password is required.
+      </ng-container>
+      <ng-container *ngIf="form.get('repassword')!.errors!['sameValue']">
+        Password fields don't match.
+      </ng-container>
+    </p>
+
+    <p>
+      <button [disabled]="form.invalid">Create Account</button>
+    </p>
+
+    <p class="text-center">
+      Have an account?
+      <a href="">Log In</a>
+    </p>
+
+  </fieldset>
+</form>
