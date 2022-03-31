@@ -1,0 +1,112 @@
+<form class="register" #form="ngForm" (ngSubmit)="register(form)">
+
+    <fieldset>
+        <h2>Registration Form</h2>
+
+        <!-- username -->
+        <p class="field field-icon">
+            <label for="username"><span><i class="fas fa-user"></i></span></label>
+            <input type="text" name="username" id="username" placeholder="Johny" ngModel required invalidWhitespace
+                [minlength]="5" #usernameInput="ngModel">
+        </p>
+        <ng-container *ngIf="usernameInput.touched && usernameInput.errors">
+            <p class="error" *ngIf="usernameInput.errors['invalidWhitespace']">
+                {{usernameInput.errors['invalidWhitespace'].error}}
+            </p>
+            <ng-container *ngIf="!usernameInput.errors['invalidWhitespace']">
+                <p class="error" *ngIf="usernameInput.errors['required']">
+                    Username is required!
+                </p>
+                <p class="error" *ngIf="usernameInput.errors['minlength']">
+                    Username must be at least 5 characters long.
+                </p>
+            </ng-container>
+        </ng-container>
+
+        <!-- email -->
+        <p class="field field-icon">
+            <label for="email"><span><i class="fas fa-envelope"></i></span></label>
+            <input type="email" name="email" id="email" placeholder="john.doe@gmail.com" ngModel required email
+                #emailInput="ngModel">
+        </p>
+        <ng-container *ngIf="emailInput.touched && emailInput.errors">
+            <p class="error" *ngIf="emailInput.errors['required']">
+                Email is required!
+            </p>
+            <p class="error" *ngIf="emailInput.errors['email']">
+                Email is invalid!
+            </p>
+        </ng-container>
+
+        <!-- telephone -->
+        <p class="field field-icon">
+            <label for="tel"><span><i class="fas fa-phone"></i></span></label>
+            <select name="select-tel" id="select-tel" class="tel">
+                <option value="00359">+359</option>
+            </select>
+            <input type="text" name="tel" id="tel" placeholder="885888888" ngModel [minlength]="9" [maxlength]="9"
+                pattern="[0-9]+" #phoneNumberInput="ngModel">
+        </p>
+        <ng-container *ngIf="phoneNumberInput.touched && phoneNumberInput.errors">
+            <p class="error" *ngIf="phoneNumberInput.errors['minlength'] || phoneNumberInput.errors['maxlength']">
+                Phone number can only be 9 digits long!
+            </p>
+            <p class="error" *ngIf="phoneNumberInput.errors['pattern']">
+                Phone number can only consist of digits!
+            </p>
+        </ng-container>
+
+        <!-- password -->
+        <p class="field field-icon">
+            <label for="password"><span><i class="fas fa-lock"></i></span></label>
+            <input type="password" name="password" id="password" placeholder="******" ngModel required [minlength]="5"
+                pattern="[a-zA-Z0-9]+" #passwordInput="ngModel">
+        </p>
+        <ng-container *ngIf="passwordInput.touched && passwordInput.errors">
+            <p class="error" *ngIf="passwordInput.errors['invalidWhitespace']">
+                {{passwordInput.errors['invalidWhitespace'].error}}
+            </p>
+            <ng-container *ngIf="!passwordInput.errors['invalidWhitespace']">
+                <p class="error" *ngIf="passwordInput.errors['required']">
+                    Password is required!
+                </p>
+                <p class="error" *ngIf="passwordInput.errors['minlength']">
+                    Password must be at least 5 characters long!
+                </p>
+                <p class="error" *ngIf="passwordInput.errors['pattern']">
+                    Password can only consist of letters and digits!
+                </p>
+            </ng-container>
+
+        </ng-container>
+
+        <!-- rePassword -->
+        <p class="field field-icon">
+            <label for="rePassword"><span><i class="fas fa-lock"></i></span></label>
+            <input type="password" name="rePassword" id="rePassword" placeholder="******" ngModel required
+                sameValue="password" #rePasswordInput="ngModel">
+        </p>
+        <ng-container *ngIf="rePasswordInput.touched && rePasswordInput.errors">
+            <p class="error" *ngIf="rePasswordInput.errors['invalidWhitespace']">
+                {{rePasswordInput.errors['invalidWhitespace'].error}}
+            </p>
+            <ng-container *ngIf="!rePasswordInput.errors['invalidWhitespace']">
+                <p class="error" *ngIf="rePasswordInput.errors['required']">
+                    Password is required!
+                </p>
+                <p class="error" *ngIf="rePasswordInput.errors['sameValue']">
+                    Password inputs do not match!
+                </p>
+            </ng-container>
+        </ng-container>
+
+        <button [disabled]="form.invalid">Create Account</button>
+
+
+        <p class=" text-center">
+            Have an account?
+            <a routerLink="/login">Log In</a>
+        </p>
+
+    </fieldset>
+</form>

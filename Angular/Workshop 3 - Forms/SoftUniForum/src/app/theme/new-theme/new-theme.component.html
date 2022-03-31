@@ -1,0 +1,52 @@
+<div class="new-theme-border">
+    <div class="header-background">
+        <span>New Theme</span>
+    </div>
+    <form #form="ngForm" (ngSubmit)="newThemeHandler(form)">
+        <div class="new-theme-title">
+            <label for="themeName">Title<span class="red">* </span></label>
+            <input ngModel #titleInput="ngModel" type="text" name="themeName" id="themeName" required [minlength]="5"
+                invalidWhitespace>
+            <ng-container *ngIf="titleInput.errors && titleInput.touched">
+                <ng-container *ngIf="titleInput.errors['invalidWhitespace']">
+                    <p class="error">
+                        {{titleInput.errors['invalidWhitespace'].error}}
+                    </p>
+                </ng-container>
+                <ng-container *ngIf="!titleInput.errors['invalidWhitespace']">
+                    <p class="error" *ngIf="titleInput.errors['required']">
+                        Title is required.
+                    </p>
+                    <p class="error" *ngIf="titleInput.errors['minlength']">
+                        Title must be at least 5 characters long.
+                    </p>
+                </ng-container>
+            </ng-container>
+        </div>
+        <div class="new-theme-content">
+            <label for="postText">Post<span class="red">*</span></label>
+            <textarea ngModel #contentInput="ngModel" type="text" name="postText" id="postText" rows="8" class="height"
+                required [minlength]="10" invalidWhitespace></textarea>
+            <ng-container *ngIf="contentInput.errors && contentInput.touched">
+                <ng-container *ngIf="contentInput.errors['invalidWhitespace']">
+                    <p class="error" *ngIf="contentInput.errors['invalidWhitespace']">
+                        {{contentInput.errors['invalidWhitespace'].error}}
+                    </p>
+                </ng-container>
+                <ng-container *ngIf="!contentInput.errors['invalidWhitespace']">
+                    <p class="error" *ngIf="contentInput.errors['required']">
+                        Post content is required.
+                    </p>
+                    <p class="error" *ngIf="contentInput.errors['minlength']">
+                        Post content must be at least 10 characters long.
+                    </p>
+                </ng-container>
+            </ng-container>
+        </div>
+        <div class="new-theme-buttons">
+            <button class="cancel">Cancel</button>
+            <button class="public" [disabled]="form.invalid">Post</button>
+        </div>
+
+    </form>
+</div>
