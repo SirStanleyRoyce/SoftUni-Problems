@@ -1,0 +1,51 @@
+<div class="theme-content">
+    <app-home *ngIf="!isAuth"></app-home>
+    <div class="theme-title">
+        <div class="theme-name-wrapper">
+            <div class="theme-name">
+                <h2>{{theme?.themeName}}</h2>
+                <p>Date: <time>{{theme?.created_at}}</time></p>
+            </div>
+            <div class="subscribers">
+                <p>Subscribers: <span>{{theme?.subscribers?.length}}</span></p>
+                <ng-container *ngIf="isAuth">
+                    <button *ngIf="!isSubscribed" class="subscribe" (click)="subscribeHandler()">Subscribe</button>
+                    <button *ngIf="isSubscribed" class="unsubscribe" (click)="unsubscribeHandler()">Unsubscribe</button>
+                </ng-container>
+            </div>
+        </div>
+    </div>
+
+    <div class="comment" *ngFor="let post of theme?.posts">
+        <header class="header">
+            <p><span>{{post.userId.username}}</span> posted on <time>{{post.created_at}}</time></p>
+        </header>
+        <div class="comment-main">
+            <div class="userdetails">
+                <img src="/assets/profile.png" alt="avatar">
+            </div>
+            <div class="post-content">
+                <p>{{post.text}}</p>
+            </div>
+        </div>
+        <div class="footer">
+            <ng-container *ngIf="isAuth">
+                <i class="fas fa-thumbs-up" *ngIf="!hasLiked(post._id)" (click)="likeHandler(post._id)"></i>
+                <i class="fas fa-thumbs-down" *ngIf="hasLiked(post._id)" (click)="dislikeHandler(post._id)"></i>
+            </ng-container>
+            <p><span>{{post.likes.length}}</span> likes</p>
+        </div>
+    </div>
+
+    <div class="answer-comment" *ngIf="isAuth">
+        <p><span>{{user?.username}}</span> comment:</p>
+        <div class="answer">
+            <form #commentForm="ngForm" (ngSubmit)="commentHandler(commentForm)">
+                <textarea ngModel #commentContent="ngModel" name="postText" id="comment" cols="30" rows="10" required
+                    invalidWhitespace></textarea>
+                <button [disabled]="commentForm.invalid">Post</button>
+            </form>
+        </div>
+    </div>
+
+</div>

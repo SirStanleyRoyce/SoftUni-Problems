@@ -1,0 +1,33 @@
+<app-home *ngIf="!isAuth"></app-home>
+<div class="container">
+    <div *ngIf="themes" class="theme-title">
+        <div *ngFor="let theme of themes" class="theme-container">
+            <div class="theme-name-wrapper">
+                <div class="theme-name">
+                    <a class="normal" [routerLink]="'/themes/' + theme._id">
+                        <h2>{{theme.themeName}}</h2>
+                    </a>
+                    <div class="columns">
+                        <div>
+                            <p>Date: <time>{{theme.created_at}}</time></p>
+                            <div class="nick-name">
+                                <p>Username: <span>{{theme.userId.username}}</span></p>
+                            </div>
+                        </div>
+                        <div class="subscribers">
+                            <ng-container *ngIf="isAuth">
+                                <button class="subscribe" *ngIf="!isSubscribed(theme._id)"
+                                    (click)="subscribeHandler(theme._id)">Subscribe</button>
+                                <button class="unsubscribe" *ngIf="isSubscribed(theme._id)"
+                                    (click)="unsubscribeHandler(theme._id)">Unsubscribe</button>
+                            </ng-container>
+                            <p>Subscribers: <span>{{theme.subscribers.length}}</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="!themes">Loading...</div>
+    <app-aside title="Recent posts" [items]="posts"></app-aside>
+</div>

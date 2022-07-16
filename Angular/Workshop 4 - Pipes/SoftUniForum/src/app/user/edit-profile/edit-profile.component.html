@@ -1,0 +1,59 @@
+<div class="container">
+    <div class="profile">
+        <img src="assets/profile.png" alt="default user">
+        <h3>User Info:</h3>
+        <form #form="ngForm" (ngSubmit)="editProfileHandler(form)">
+            <div class="flex">
+                <p>Username: </p>
+                <input [ngModel]="user?.username" #username="ngModel" type="text" name="username" id="username" required
+                    [minlength]="5" invalidWhitespace>
+            </div>
+            <ng-container *ngIf="username.touched && username.errors">
+                <p class="error" *ngIf="username.errors['invalidWhitespace']">
+                    {{username.errors['invalidWhitespace'].error}}
+                </p>
+                <ng-container *ngIf="!username.errors['invalidWhitespace']">
+                    <p class="error" *ngIf="username.errors['required']">
+                        Username is required!
+                    </p>
+                    <p class="error" *ngIf="username.errors['minlength']">
+                        Username must be at least 5 characters long.
+                    </p>
+                </ng-container>
+            </ng-container>
+            <div class="flex">
+                <p>Email: </p>
+                <input [ngModel]="user?.email" #email="ngModel" type="email" name="email" id="email"
+                    [defaultValue]="user?.email" required email>
+            </div>
+            <ng-container *ngIf="email.touched && email.errors">
+                <p class="error" *ngIf="email.errors['required']">
+                    Email is required!
+                </p>
+                <p class="error" *ngIf="email.errors['email']">
+                    Email is invalid!
+                </p>
+            </ng-container>
+            <div class="flex">
+                <p>Phone: </p>
+                <div>
+                    <select name="select-tel" id="select-tel" class="tel">
+                        <option value="00359" [defaultSelected]="true">+359</option>
+                    </select>
+                    <input [ngModel]="user?.tel" #phoneNumber="ngModel" type="text" name="tel" id="tel"
+                        value="885 888 888" [minlength]="9" [maxlength]="9" pattern="[0-9]+">
+                </div>
+            </div>
+            <ng-container *ngIf="phoneNumber.touched && phoneNumber.errors">
+                <p class="error" *ngIf="phoneNumber.errors['minlength'] || phoneNumber.errors['maxlength']">
+                    Phone number can only be 9 digits long!
+                </p>
+                <p class="error" *ngIf="phoneNumber.errors['pattern']">
+                    Phone number can only consist of digits!
+                </p>
+            </ng-container>
+            <button class="red-button" routerLink="/user/profile">Cancel</button>
+            <button class="green-button" [disabled]="form.invalid">Save</button>
+        </form>
+    </div>
+</div>
