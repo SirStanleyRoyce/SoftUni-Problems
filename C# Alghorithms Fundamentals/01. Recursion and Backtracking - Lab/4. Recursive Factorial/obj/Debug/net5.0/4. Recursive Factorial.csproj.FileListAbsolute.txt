@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\bin\Debug\net5.0\4. Recursive Factorial.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\bin\Debug\net5.0\4. Recursive Factorial.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\bin\Debug\net5.0\4. Recursive Factorial.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\bin\Debug\net5.0\4. Recursive Factorial.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\bin\Debug\net5.0\4. Recursive Factorial.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\bin\Debug\net5.0\4. Recursive Factorial.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\4. Recursive Factorial.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\4. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\4. Recursive Factorial.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\4. Recursive Factorial.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\4. Recursive Factorial.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\4. Recursive Factorial.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\refint\4. Recursive Factorial.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\4. Recursive Factorial.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\4. Recursive Factorial.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\4. Recursive Factorial\obj\Debug\net5.0\ref\4. Recursive Factorial.dll

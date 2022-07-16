@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\bin\Debug\net5.0\5. Find All Paths in a Labyrinth.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\bin\Debug\net5.0\5. Find All Paths in a Labyrinth.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\bin\Debug\net5.0\5. Find All Paths in a Labyrinth.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\bin\Debug\net5.0\5. Find All Paths in a Labyrinth.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\bin\Debug\net5.0\5. Find All Paths in a Labyrinth.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\bin\Debug\net5.0\5. Find All Paths in a Labyrinth.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\5. Find All Paths in a Labyrinth.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\5. Find All Paths in a Labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\5. Find All Paths in a Labyrinth.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\5. Find All Paths in a Labyrinth.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\5. Find All Paths in a Labyrinth.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\5. Find All Paths in a Labyrinth.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\refint\5. Find All Paths in a Labyrinth.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\5. Find All Paths in a Labyrinth.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\5. Find All Paths in a Labyrinth.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\01. Recursion and Backtracking - Lab\5. Find All Paths in a Labyrinth\obj\Debug\net5.0\ref\5. Find All Paths in a Labyrinth.dll
