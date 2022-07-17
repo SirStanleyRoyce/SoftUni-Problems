@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\bin\Debug\net5.0\7. N Choose K Count.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\refint\7. N Choose K Count.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\7. N Choose K Count.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\7. N Choose K Count\obj\Debug\net5.0\ref\7. N Choose K Count.dll

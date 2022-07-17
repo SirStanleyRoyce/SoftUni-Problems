@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\bin\Debug\net5.0\2. Permutations with Repetitions.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\refint\2. Permutations with Repetitions.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\2. Permutations with Repetitions.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\2. Permutations with Repetitions\obj\Debug\net5.0\ref\2. Permutations with Repetitions.dll

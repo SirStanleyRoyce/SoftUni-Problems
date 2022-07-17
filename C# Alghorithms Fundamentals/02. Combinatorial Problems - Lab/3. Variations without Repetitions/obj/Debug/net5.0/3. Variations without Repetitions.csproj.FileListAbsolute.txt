@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\bin\Debug\net5.0\3. Variations without Repetitions.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\bin\Debug\net5.0\3. Variations without Repetitions.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\bin\Debug\net5.0\3. Variations without Repetitions.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\bin\Debug\net5.0\3. Variations without Repetitions.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\bin\Debug\net5.0\3. Variations without Repetitions.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\bin\Debug\net5.0\3. Variations without Repetitions.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\3. Variations without Repetitions.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\3. Variations without Repetitions.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\3. Variations without Repetitions.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\3. Variations without Repetitions.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\3. Variations without Repetitions.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\3. Variations without Repetitions.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\refint\3. Variations without Repetitions.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\3. Variations without Repetitions.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\3. Variations without Repetitions.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\02. Combinatorial Problems - Lab\3. Variations without Repetitions\obj\Debug\net5.0\ref\3. Variations without Repetitions.dll
