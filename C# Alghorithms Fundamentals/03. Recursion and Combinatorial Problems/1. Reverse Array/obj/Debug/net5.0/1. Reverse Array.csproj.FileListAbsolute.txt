@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\bin\Debug\net5.0\1. Reverse Array.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\bin\Debug\net5.0\1. Reverse Array.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\bin\Debug\net5.0\1. Reverse Array.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\bin\Debug\net5.0\1. Reverse Array.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\bin\Debug\net5.0\1. Reverse Array.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\bin\Debug\net5.0\1. Reverse Array.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\1. Reverse Array.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\1. Reverse Array.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\1. Reverse Array.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\1. Reverse Array.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\1. Reverse Array.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\1. Reverse Array.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\refint\1. Reverse Array.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\1. Reverse Array.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\1. Reverse Array.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\1. Reverse Array\obj\Debug\net5.0\ref\1. Reverse Array.dll
