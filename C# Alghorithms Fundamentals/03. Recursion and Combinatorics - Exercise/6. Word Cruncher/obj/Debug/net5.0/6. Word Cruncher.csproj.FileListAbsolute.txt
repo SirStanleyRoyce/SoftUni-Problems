@@ -1,0 +1,32 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\refint\6. Word Cruncher.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorial Problems\6. Word Cruncher\obj\Debug\net5.0\ref\6. Word Cruncher.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\bin\Debug\net5.0\6. Word Cruncher.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\refint\6. Word Cruncher.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\6. Word Cruncher.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\03. Recursion and Combinatorics - Exercise\6. Word Cruncher\obj\Debug\net5.0\ref\6. Word Cruncher.dll
