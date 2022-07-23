@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\bin\Debug\net5.0\4. Salaries.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\bin\Debug\net5.0\4. Salaries.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\bin\Debug\net5.0\4. Salaries.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\bin\Debug\net5.0\4. Salaries.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\bin\Debug\net5.0\4. Salaries.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\bin\Debug\net5.0\4. Salaries.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\4. Salaries.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\4. Salaries.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\4. Salaries.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\4. Salaries.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\4. Salaries.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\4. Salaries.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\refint\4. Salaries.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\4. Salaries.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\4. Salaries.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\4. Salaries\obj\Debug\net5.0\ref\4. Salaries.dll

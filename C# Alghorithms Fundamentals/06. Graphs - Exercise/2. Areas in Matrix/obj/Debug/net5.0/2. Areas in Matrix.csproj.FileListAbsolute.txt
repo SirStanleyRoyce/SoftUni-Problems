@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\bin\Debug\net5.0\2. Areas in Matrix.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\bin\Debug\net5.0\2. Areas in Matrix.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\bin\Debug\net5.0\2. Areas in Matrix.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\bin\Debug\net5.0\2. Areas in Matrix.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\bin\Debug\net5.0\2. Areas in Matrix.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\bin\Debug\net5.0\2. Areas in Matrix.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\2. Areas in Matrix.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\2. Areas in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\2. Areas in Matrix.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\2. Areas in Matrix.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\2. Areas in Matrix.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\2. Areas in Matrix.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\refint\2. Areas in Matrix.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\2. Areas in Matrix.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\2. Areas in Matrix.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\06. Graphs - Exercise\2. Areas in Matrix\obj\Debug\net5.0\ref\2. Areas in Matrix.dll
