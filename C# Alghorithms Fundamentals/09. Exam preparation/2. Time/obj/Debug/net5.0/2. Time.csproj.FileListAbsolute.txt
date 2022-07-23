@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\bin\Debug\net5.0\2. Time.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\bin\Debug\net5.0\2. Time.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\bin\Debug\net5.0\2. Time.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\bin\Debug\net5.0\2. Time.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\bin\Debug\net5.0\2. Time.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\bin\Debug\net5.0\2. Time.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\2. Time.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\2. Time.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\2. Time.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\2. Time.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\2. Time.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\2. Time.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\refint\2. Time.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\2. Time.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\2. Time.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\2. Time\obj\Debug\net5.0\ref\2. Time.dll

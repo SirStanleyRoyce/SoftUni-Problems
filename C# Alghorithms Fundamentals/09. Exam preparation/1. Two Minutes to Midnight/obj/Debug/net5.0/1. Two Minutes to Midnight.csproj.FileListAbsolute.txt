@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\bin\Debug\net5.0\1. Two Minutes to Midnight.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\bin\Debug\net5.0\1. Two Minutes to Midnight.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\bin\Debug\net5.0\1. Two Minutes to Midnight.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\bin\Debug\net5.0\1. Two Minutes to Midnight.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\bin\Debug\net5.0\1. Two Minutes to Midnight.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\bin\Debug\net5.0\1. Two Minutes to Midnight.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\1. Two Minutes to Midnight.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\1. Two Minutes to Midnight.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\1. Two Minutes to Midnight.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\1. Two Minutes to Midnight.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\1. Two Minutes to Midnight.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\1. Two Minutes to Midnight.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\refint\1. Two Minutes to Midnight.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\1. Two Minutes to Midnight.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\1. Two Minutes to Midnight.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\09. Exam preparation\1. Two Minutes to Midnight\obj\Debug\net5.0\ref\1. Two Minutes to Midnight.dll
