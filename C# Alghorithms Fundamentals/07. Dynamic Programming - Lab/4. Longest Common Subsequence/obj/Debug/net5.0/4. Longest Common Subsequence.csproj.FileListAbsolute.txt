@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\bin\Debug\net5.0\4. Longest Common Subsequence.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\bin\Debug\net5.0\4. Longest Common Subsequence.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\bin\Debug\net5.0\4. Longest Common Subsequence.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\bin\Debug\net5.0\4. Longest Common Subsequence.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\bin\Debug\net5.0\4. Longest Common Subsequence.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\bin\Debug\net5.0\4. Longest Common Subsequence.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\4. Longest Common Subsequence.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\4. Longest Common Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\4. Longest Common Subsequence.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\4. Longest Common Subsequence.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\4. Longest Common Subsequence.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\4. Longest Common Subsequence.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\refint\4. Longest Common Subsequence.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\4. Longest Common Subsequence.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\4. Longest Common Subsequence.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\07. Dynamic Programming - Lab\4. Longest Common Subsequence\obj\Debug\net5.0\ref\4. Longest Common Subsequence.dll
