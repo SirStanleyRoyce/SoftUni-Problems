@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\bin\Debug\net5.0\1. Bellman-Ford.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\bin\Debug\net5.0\1. Bellman-Ford.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\bin\Debug\net5.0\1. Bellman-Ford.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\bin\Debug\net5.0\1. Bellman-Ford.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\bin\Debug\net5.0\1. Bellman-Ford.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\bin\Debug\net5.0\1. Bellman-Ford.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\1. Bellman-Ford.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\1. Bellman-Ford.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\1. Bellman-Ford.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\1. Bellman-Ford.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\1. Bellman-Ford.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\1. Bellman-Ford.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\refint\1. Bellman-Ford.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\1. Bellman-Ford.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\1. Bellman-Ford.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Advanced\02. Graphs Bellman-Ford, Longest Path in (DAG)\1. Bellman-Ford\obj\Debug\net5.0\ref\1. Bellman-Ford.dll
