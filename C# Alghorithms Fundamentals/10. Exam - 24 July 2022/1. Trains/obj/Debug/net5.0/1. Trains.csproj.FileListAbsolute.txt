@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\bin\Debug\net5.0\1. Trains.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\bin\Debug\net5.0\1. Trains.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\bin\Debug\net5.0\1. Trains.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\bin\Debug\net5.0\1. Trains.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\bin\Debug\net5.0\1. Trains.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\bin\Debug\net5.0\1. Trains.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\1. Trains.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\1. Trains.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\1. Trains.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\1. Trains.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\1. Trains.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\1. Trains.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\refint\1. Trains.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\1. Trains.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\1. Trains.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 24 July 2022\1. Trains\obj\Debug\net5.0\ref\1. Trains.dll

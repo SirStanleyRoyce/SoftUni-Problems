@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\bin\Debug\net5.0\2. The Tyrant.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\bin\Debug\net5.0\2. The Tyrant.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\bin\Debug\net5.0\2. The Tyrant.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\bin\Debug\net5.0\2. The Tyrant.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\bin\Debug\net5.0\2. The Tyrant.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\bin\Debug\net5.0\2. The Tyrant.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\2. The Tyrant.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\2. The Tyrant.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\2. The Tyrant.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\2. The Tyrant.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\2. The Tyrant.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\2. The Tyrant.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\refint\2. The Tyrant.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\2. The Tyrant.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\2. The Tyrant.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\2. The Tyrant\obj\Debug\net5.0\ref\2. The Tyrant.dll

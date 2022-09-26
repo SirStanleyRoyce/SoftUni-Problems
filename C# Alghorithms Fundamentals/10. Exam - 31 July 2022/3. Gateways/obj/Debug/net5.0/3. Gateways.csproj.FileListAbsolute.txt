@@ -1,0 +1,16 @@
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\bin\Debug\net5.0\3. Gateways.exe
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\bin\Debug\net5.0\3. Gateways.deps.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\bin\Debug\net5.0\3. Gateways.runtimeconfig.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\bin\Debug\net5.0\3. Gateways.runtimeconfig.dev.json
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\bin\Debug\net5.0\3. Gateways.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\bin\Debug\net5.0\3. Gateways.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\3. Gateways.csproj.AssemblyReference.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\3. Gateways.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\3. Gateways.AssemblyInfoInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\3. Gateways.AssemblyInfo.cs
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\3. Gateways.csproj.CoreCompileInputs.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\3. Gateways.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\refint\3. Gateways.dll
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\3. Gateways.pdb
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\3. Gateways.genruntimeconfig.cache
+B:\Documents\WebStorm Projects\SoftUni\C# Alghorithms Fundamentals\10. Exam - 31 July 2022\3. Gateways\obj\Debug\net5.0\ref\3. Gateways.dll
