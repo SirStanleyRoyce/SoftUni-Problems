@@ -41,7 +41,7 @@ namespace _1._Dijkstra_s_Algorithm
     internal class Program
     {
         static Dictionary<int, List<Edge>> edgesByNode;
-        static double[] destination;
+        static double[] distance;
         static int[] parent;
         static OrderedBag<int> bag;
         static void Main(string[] args)
@@ -57,39 +57,39 @@ namespace _1._Dijkstra_s_Algorithm
             int startNode = int.Parse(Console.ReadLine());
             int endNode = int.Parse(Console.ReadLine());
 
-            destination = new double[length];
-            /*Array.Fill(destination, double.PositiveInfinity);*/ //not supported by SoftUni Judge
+            distance = new double[length];
+            /*Array.Fill(distance, double.PositiveInfinity);*/ //not supported by SoftUni Judge
 
             parent = new int[length];
             /*Array.Fill(parent, -1);*/
 
             for (int i = 0; i < length; i++)
             {
-                destination[i] = double.PositiveInfinity;
+                distance[i] = double.PositiveInfinity;
                 parent[i] = -1;
             }
-            destination[startNode] = 0;
+            distance[startNode] = 0;
 
             Djikstra(startNode, endNode);
 
-            if (double.IsPositiveInfinity(destination[endNode]))
+            if (double.IsPositiveInfinity(distance[endNode]))
             {
                 Console.WriteLine("There is no such path.");
             }
             else
             {
-                Console.WriteLine(destination[endNode]);
+                Console.WriteLine(distance[endNode]);
                 Console.WriteLine(String.Join(" ", GetNodePath(endNode, parent)));
             }
         }
 
-        static void Djikstra(int startNode, int endNode)
-        {
-            var comparer = Comparer<int>.Create((f, t) => (int)(destination[f] - destination[t]));
-            bag = new OrderedBag<int>(comparer) { startNode };
+			static void Djikstra(int startNode, int endNode)
+			{
+				var comparer = Comparer<int>.Create((f, t) => (int)(distance[f] - distance[t]));
+				bag = new OrderedBag<int>(comparer) { startNode };
 
-            while (bag.Count > 0)
-            {
+				while (bag.Count > 0)
+				{
                 var minNode = bag.RemoveFirst();
 
                 if (minNode == endNode)
@@ -103,16 +103,16 @@ namespace _1._Dijkstra_s_Algorithm
                         ? edge.To
                         : edge.To;
 
-                    if (double.IsPositiveInfinity(destination[targetNode]))
+                    if (double.IsPositiveInfinity(distance[targetNode]))
                     {
                         bag.Add(targetNode);
                     }
 
-                    double newDestination = destination[minNode] + edge.Weight;
+                    double newDistance = distance[minNode] + edge.Weight;
 
-                    if (destination[targetNode] > newDestination)
+                    if (distance[targetNode] > newDistance)
                     {
-                        destination[targetNode] = newDestination;
+                        distance[targetNode] = newDistance;
                         parent[targetNode] = minNode;
                         bag = new OrderedBag<int>(bag, comparer);
                     }
