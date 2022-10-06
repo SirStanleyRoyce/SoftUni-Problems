@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Electrical Substation Network", "1. Electrical Substation Network\1. Electrical Substation Network.csproj", "{5D2DE5C5-AB73-43A0-838A-F43BEB6D3D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Maximum Tasks Assignment", "2. Maximum Tasks Assignment\2. Maximum Tasks Assignment.csproj", "{D5E3D38F-45B1-46D7-8E67-BB08D427E8B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Find Bi-Connected Components", "3. Find Bi-Connected Components\3. Find Bi-Connected Components.csproj", "{4EC16D5D-5D4A-4702-B67A-93B23189A266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D2DE5C5-AB73-43A0-838A-F43BEB6D3D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2DE5C5-AB73-43A0-838A-F43BEB6D3D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2DE5C5-AB73-43A0-838A-F43BEB6D3D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2DE5C5-AB73-43A0-838A-F43BEB6D3D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E3D38F-45B1-46D7-8E67-BB08D427E8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E3D38F-45B1-46D7-8E67-BB08D427E8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E3D38F-45B1-46D7-8E67-BB08D427E8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E3D38F-45B1-46D7-8E67-BB08D427E8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC16D5D-5D4A-4702-B67A-93B23189A266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC16D5D-5D4A-4702-B67A-93B23189A266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC16D5D-5D4A-4702-B67A-93B23189A266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC16D5D-5D4A-4702-B67A-93B23189A266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBAC3CC-FE25-41D0-8995-A08849C6D8D4}
+	EndGlobalSection
+EndGlobal
