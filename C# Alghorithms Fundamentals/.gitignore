@@ -1,3 +1,12 @@
-.vs
-08. Exercise-Introduction-to-Dynamic-Programming-Exercises
+*.vs
+*.suo
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+**/packages/*
+!**/packages/build/
+08. Exercise-Introduction-to-Dynamic-Programming-Exercises.docx
 .helper
+10. Exam - 24 July 2022/
