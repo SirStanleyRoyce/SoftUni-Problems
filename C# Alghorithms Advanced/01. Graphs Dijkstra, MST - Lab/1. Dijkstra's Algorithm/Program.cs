@@ -14,7 +14,7 @@ namespace _1._Dijkstra_s_Algorithm
         public Edge(int from, int to, int weight)
         {
             this.From = from;
-            this.To = to;  
+            this.To = to;
             this.Weight = weight;
         }
 
@@ -83,13 +83,13 @@ namespace _1._Dijkstra_s_Algorithm
             }
         }
 
-			static void Djikstra(int startNode, int endNode)
-			{
-				var comparer = Comparer<int>.Create((f, t) => (int)(distance[f] - distance[t]));
-				bag = new OrderedBag<int>(comparer) { startNode };
+        static void Djikstra(int startNode, int endNode)
+        {
+            var comparer = Comparer<int>.Create((f, t) => (int)(distance[f] - distance[t]));
+            bag = new OrderedBag<int>(comparer) { startNode };
 
-				while (bag.Count > 0)
-				{
+            while (bag.Count > 0)
+            {
                 var minNode = bag.RemoveFirst();
 
                 if (minNode == endNode)
@@ -101,7 +101,7 @@ namespace _1._Dijkstra_s_Algorithm
                 {
                     int targetNode = edge.From == minNode
                         ? edge.To
-                        : edge.To;
+                        : edge.From;
 
                     if (double.IsPositiveInfinity(distance[targetNode]))
                     {
